@@ -1,0 +1,19 @@
+h1 {
+    color: cadetblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: #a6e3e9;
+    padding: 50px;
+    border: 10px;
+    border-color: #71c9ce;
+    border-style: dashed;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
